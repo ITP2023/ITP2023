@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=itp2023)
 - 👋 Hi, I’m @ITP2023 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning, Data Science, Artificial Intelligence
