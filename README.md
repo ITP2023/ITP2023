@@ -5,8 +5,5 @@
 - A decent hand at web development
 - JavaScript has been my solitary companion for over a year
 - [My kaggle link](https://www.kaggle.com/itp6066)
-- Discord handle: Discessum#3300
-<!---
-ITP2023/ITP2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ITP2023)](https://git.io/streak-stats)
