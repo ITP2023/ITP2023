@@ -36,4 +36,8 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ITP2023)](https://git.io/streak-stats)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ITP2023)](https://git.io/streak-stats)
+</div>
+
