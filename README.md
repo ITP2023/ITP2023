@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=itp2023)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=green&text=ivie_dev&animation=blink&fontColor=4682B4" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=green&text=Ihab%20Patel&animation=blink&fontColor=4682B4" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 ## 🌟 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,flutter,vite,nextjs,nuxt,vue,react,nodejs,supabase,tailwind,git,github,aws&perline=20" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,flutter,vite,nextjs,nuxt,vue,react,nodejs,supabase,tailwind,git,github,aws,azure&perline=20" alt="Skills" />
 </p>
 
 
