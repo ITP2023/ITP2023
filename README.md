@@ -1,7 +1,8 @@
 
 ## Interested in
 
-Applying Rust and other systems programming languages to the fields of Data Engineering, ML tools, Language tools.
+1. Web Interfaces for AI Agents.
+2. Rust for ML, Data Engineering.
 
 ## Projects
 ### Active
