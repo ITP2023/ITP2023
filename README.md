@@ -10,7 +10,7 @@
 ### Completed
 - [**Florence 2**](https://github.com/ITP2023/florence2): Implementation of Microsoft's Florence 2 Large VLM model in pure PyTorch. Compatible with loading from HuggingFace repo.
 
-
+## Tools
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITP2023&langs_count=8&layout=compact"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ITP2023&theme=dark_github&layout=compact" alt="Top Langs" />
 </div>
