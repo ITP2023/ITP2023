@@ -14,3 +14,9 @@
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ITP2023&theme=dark_github&layout=compact" alt="Top Langs" />
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+  </a>
+</p>
